@@ -1,4 +1,5 @@
 # SiteFlexbox
-Site de hotel feito em HTML e CSS usando Flexbox
+
+[![Made by NodeStudio](https://img.shields.io/badge/made%20by-NodeStudio-%03bf65)](https://www.nodestudio.com.br/)
 
 ➜ Link do curso [ https://www.nodestudio.com.br/curso/curso-de-flexbox ]
